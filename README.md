@@ -20,7 +20,7 @@ It creates an animated landscape that continuously scrolls, simulating flying ov
 2. Clone this repository:  
    ```bash
    git clone https://github.com/yourusername/terrain-generator.git
-````
+
 
 3. Open `terrain-generator.pde` in Processing.
 4. Hit the **Run ▶** button.
@@ -45,6 +45,5 @@ This project is licensed under the MIT License — feel free to use, modify, and
 ---
 
 Made with ❤️ in Processing
+````
 
-```
-```
